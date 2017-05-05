@@ -20,7 +20,7 @@ author:
   reddit:           your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            klaus-dev@yandex.ru
 
 copyright:
   year:             2017
@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "klaus-dev"
+  id:               "klausdev"
 
 # URL
 url:                "klaus-dev.github.io" # the base hostname & protocol for your site
