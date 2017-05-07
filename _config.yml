@@ -55,13 +55,13 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "Эбаут"
     url:            "/about"
-  - name:           "Archive"
+  - name:           "Архив"
     url:            "/archive"
-  - name:           "Tags"
+  - name:           "Теги"
     url:            "/tags"
-  - name:           "Github"
+  - name:           "Гитхаб"
     url:            "https://github.com/klaus-dev"
 
 # Sass

@@ -1,5 +1,5 @@
 ---
-title: About
+title: Эбаут
 permalink: /about/
 ---
 
